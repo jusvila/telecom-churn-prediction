@@ -1,4 +1,4 @@
-# Migros Store Challenge
+# Telecom Churn Prediction
 
 #### -- Project Status: [Active]
 
