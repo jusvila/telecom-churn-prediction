@@ -6,6 +6,7 @@
 The purpose of this project is to reliably predict if a costumer is about to churn to another telecommunication company.
 
 ### Partners
+* Vahid Mamduhi
 * Daniella Lott
 * Justin Villard
 
