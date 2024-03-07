@@ -1,32 +1,30 @@
 # Telecom Churn Prediction
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to find the best places to create new Migros stores.
+The purpose of this project is to reliably predict if a costumer is about to churn to another telecommunication company.
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
+### Partners
+* Daniella Lott
+* Justin Vila
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
+* Data Cleaning and Preparation
+* Feature Correlation Analysis
+* Feature Engineering
+* Data Scaling (Numerical & Categorical Data)
+* Lable Encoding (OneHot)
+* Machine Learning (ScikitLearn)
 * Data Visualization
 * Predictive Modeling
-* etc.
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
+* Scikit Learn
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+* Seaborn
+* Pickle
 
 ## Project Description
 (Provide more detailed overview of the project.
